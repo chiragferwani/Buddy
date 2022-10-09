@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #000000;
+}
+
+.search-btn{
+    color: #000000;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #ffa400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s;
+    text-decoration: none;
+}
+.search-txt{
+ border: none;
+ background: none;
+ outline: none;
+ float: left;
+ padding: 0;
+ color: rgb(0, 0, 0);
+ font-size: 16px;
+ transition: 0.4s;   
+ line-height: 40px;
+ width: 0px;
+}
+.threed {
+    color: #CCCCCC;
+    text-shadow: 0 1px 0 #999999, 0 2px 0 #888888,
+             0 3px 0 #777777, 0 4px 0 #666666,
+             0 5px 0 #555555, 0 6px 0 #444444,
+             0 7px 0 #333333, 0 8px 7px rgba(0, 0, 0, 0.4),
+             0 9px 10px rgba(0, 0, 0, 0.2);
+}
