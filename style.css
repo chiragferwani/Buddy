@@ -37,3 +37,7 @@ body{
              0 7px 0 #333333, 0 8px 7px rgba(0, 0, 0, 0.4),
              0 9px 10px rgba(0, 0, 0, 0.2);
 }
+.div {
+    height: 200px;
+  width: 50%;
+}
